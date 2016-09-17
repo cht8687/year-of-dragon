@@ -1,6 +1,6 @@
 {
   "name": "year-of-dragon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check if is year of Dragon",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,10 @@
     "pig"
   ],
   "author": "Robert Chang <cht8687@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cht8687/year-of-dragon.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.6.0"
